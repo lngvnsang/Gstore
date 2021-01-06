@@ -1,3 +1,3 @@
 # sangluong
 
-// App bán hàng sử dụng ngôn ngữ java
+// App bán hàng sử dụng Android Studio và Java
